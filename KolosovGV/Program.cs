@@ -7,5 +7,6 @@
             Console.WriteLine("Hello, World!");
         }
         //Kolosov Gleb Am-1-25
+        //solve task2
     }
 }
