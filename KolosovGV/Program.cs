@@ -7,6 +7,10 @@
             Console.WriteLine("Hello, World!");
         }
         //Kolosov Gleb Am-1-25
+        static public double Sqr(double x)
+        { 
+           return x;
+        }
         //solve task2
         //solve task1
     }
