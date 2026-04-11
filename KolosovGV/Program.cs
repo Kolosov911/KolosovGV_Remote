@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
         }
+        //solve task3
         //Kolosov Gleb Am-1-25
         static public double Sqr(double x)
         { 
